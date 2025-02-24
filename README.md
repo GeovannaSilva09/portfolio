@@ -14,5 +14,5 @@ Primeira página HTML com vínculo ao github, desenvolvido durante a disciplina 
 * github
 
 ## Autor
-[Geovanna siva](https://www.linkedin.com/in/geovanna-sousa-28289234a/)
+[Geovanna Silva](https://www.linkedin.com/in/geovanna-sousa-28289234a/)
 
